@@ -1,0 +1,8 @@
+{
+  "name": "bpm",
+  "version": "1",
+  "description": "ICO with React interface",
+  "main": "index.js",
+  "author": "vladime88 <vladime@gmail.com>",
+  "license": "MIT"
+}
